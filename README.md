@@ -33,3 +33,24 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,mysql,firebase,androidstudio,figma,aws,vercel,git,gitlab&theme=light)]()
 
+## Talking about Personal Stuff
++ 🛠   I’m currently working with Java, JavaScript, React, Pytho.
++ 💬   Ask me about anything here! I am happy to help.
++ 😄  Pronouns: He / Him
++ 📫   How to reach me: tusharguptagps@gmail.com.
+
+
+## 🚀 About Me
+I am a Sofware Developer with a passion for
+creating beautiful and functional websites. I have
+experience in HTML, CSS, JavaScript, and Query,
+and am always eager to learn new technologies and
+skills to improve my craft. My goal is to create
+websites that not only look great, but are user-
+friendly and accessible to everyone.I am outgoing,
+dedicated, and open-minded. I get across to people
+and adjust to changes with ease. I believe that a
+person should work on developing their professional
+skills and learning new things all the time. Currently, I
+am looking for new career opportunities.
+
