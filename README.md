@@ -23,19 +23,5 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,nodejs,figma&theme=light)](https://skillicons.dev)
-
-[<img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="70" height="70">]()
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="70" height="70">]()
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70">]()
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="70" height="70">]()
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" height="70">]()
-
-[<img src="https://camo.githubusercontent.com/688f61bcdee1f1ff99cff1a917828b9b2ddb8fc0b61b2c9971b5513ea8de4d0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" width="70" height="70">]()
-
-[<img src="" width="70" height="70">]()
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,javascript,java,python,nodejs,figma&theme=light)]()
 
