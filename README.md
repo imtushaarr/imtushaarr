@@ -23,5 +23,5 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html5,css3,javascript,java,python,nodejs,figma&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,nodejs,react&theme=light)]()
 
