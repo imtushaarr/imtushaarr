@@ -4,7 +4,7 @@
   <h2>Let's Connect and have a Chat!💬</h2>
 </p>
 
-<p align="center"> 
+<p align="left"> 
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tushar-gupta-portfolio.vercel.app)
 
