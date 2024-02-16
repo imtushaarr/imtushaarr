@@ -10,8 +10,11 @@
 + 🤝 Leadership practice
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instgram,github,portfolio,linkedin" />
+  <a href="https://instagram.com/imtushaarr">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://instagram.com/imtushaarr">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
