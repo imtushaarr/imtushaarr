@@ -31,5 +31,5 @@
 
 ## 🛠 Tools I Used
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,androidstudio,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,mysql,firebase,androidstudio,figma,aws,vercel,git,gitlab&theme=light)]()
 
