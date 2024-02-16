@@ -9,6 +9,12 @@
 + 🤓 Always learning and experimenting
 + 🤝 Leadership practice
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instgram,github,portfolio,linkedin" />
+  </a>
+</p>
+
 <p align="left"> 
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tushar-gupta-portfolio.vercel.app)
