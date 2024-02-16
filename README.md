@@ -2,7 +2,7 @@
 
 <p align="center">
   <h2>Let's Connect and have a Chat!💬</h2>
-  <p>I'm Tushar Gupta - I'm a sofware Developer, designer, founder and undergraduate student at Chandigarh University. I'm always eager to learn new technologies and skills to improve   my craft. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional       skills and learning new things all the time. Currently, I am looking for new career opportunities.</p>
+  <p>I'm Tushar Gupta - I'm a software Developer, designer, founder and undergraduate student at Chandigarh University. I'm always eager to learn new technologies and skills to improve   my craft. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities.
 </p>
 <p align="center">
   <a href="https://tushar-gupta-portfolio.vercel.app">
