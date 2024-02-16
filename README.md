@@ -8,7 +8,7 @@
 
 
 ## 🔗 Where to find me
-<div style="display: flex, justify-content: center"> 
+<div> 
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tushar-gupta-portfolio.vercel.app)
 
@@ -18,6 +18,13 @@
 
 [![GitHub Logo](https://img.shields.io/badge/Instagram-red?logo=instgram&logoColor=white&style=for-the-badge)](http://instgram.com/imtushaarr)
 </div>
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 
 ## 🛠 Skills
