@@ -8,7 +8,7 @@
 
 
 ## 🔗 Where to find me
-<div style="display: flex"> 
+<div style="display: flex, justify-content: center"> 
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tushar-gupta-portfolio.vercel.app)
 
