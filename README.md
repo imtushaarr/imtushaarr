@@ -29,3 +29,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,nodejs,react&theme=light)]()
 
+## 🛠 Tools I Used
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,androidstudio,figma&theme=light)](https://skillicons.dev)
+
