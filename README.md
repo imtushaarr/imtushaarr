@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://instagram.com/imtushaarr">
-    <img src="[https://skillicons.dev/icons?i=instagram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)" />
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://instagram.com/imtushaarr">
     <img src="https://skillicons.dev/icons?i=instagram" />
