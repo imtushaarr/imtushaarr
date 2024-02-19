@@ -35,7 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,mysql,firebase,androidstudio,figma,aws,vercel,git,gitlab&theme=light)]()
 
 ## Talking about Personal Stuff
-+ 🛠   I’m currently working with Java, JavaScript, React, Pytho.
++ 🛠   I’m currently working with Java, JavaScript, React, Python.
 + 💬   Ask me about anything here! I am happy to help.
 + 😄  Pronouns: He / Him
 + 📫   How to reach me: tusharguptagps@gmail.com.
