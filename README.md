@@ -20,7 +20,7 @@
 </p>
 
 + 👨‍💻 Software Developer
-+ 🧑‍💼 Founder Of [SevenTech Service](https://github.com/SevenTech-Service)
++ 🧑‍💼 Founder Of [KRAFCOOL](https://linkedin.com/company/krafcool)
 + 🤓 Always learning and experimenting
 + 🤝 Leadership practice
 
