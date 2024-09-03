@@ -15,7 +15,7 @@
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/870/non_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" alt="Dribbble" width="50px" />
   </a>
   <a href="http://instagram.com/imtushaarr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" width="50px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" width="40px" />
   </a>
 </p>
 
