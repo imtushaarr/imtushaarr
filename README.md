@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
   <a href="http://linkedin.com/imtushaarr">
-    <img src="https://www.pngitem.com/pimgs/m/106-1069530_linkedin-logo-png-linkedin-logo-transparent-png.png" alt="LinkedIn" width="30px" />
+    <img src="https://www.pngitem.com/pimgs/m/106-1069530_linkedin-logo-png-linkedin-logo-transparent-png.png" alt="LinkedIn" width="20px" />
   </a>
   <a href="https://dribbble.com/imtushaarr">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/870/non_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" alt="Dribbble" width="40px" />
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/870/non_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" alt="Dribbble" width="20px" />
   </a>
   <a href="http://instagram.com/imtushaarr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" width="30px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" width="20px" />
   </a>
 </p>
 
