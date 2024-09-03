@@ -4,7 +4,7 @@
   <h2>Let's Connect and have a Chat!💬</h2>
   <p>I'm Tushar Gupta - I'm a software Developer, designer, founder and undergraduate student at Chandigarh University. I'm always eager to learn new technologies and skills to improve   my craft. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities.
 </p>
-<p style="align: center; display: flex; flex-direction: row; gap: 10px; width: 50px; height: 50px">
+<p style="align: center; display: flex; flex-direction: row; gap: 10px; width: 20px; height: 20px">
   <a href="https://tushar-gupta-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
