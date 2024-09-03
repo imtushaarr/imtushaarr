@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
   <a href="http://linkedin.com/imtushaarr">
-    <img src="https://img.shields.io/badge/instgram?style=for-the-badge&logo=ko-fi&logoColor=white" alt="LinkedIn" width="50px" />
+    <img src="https://www.pngitem.com/pimgs/m/106-1069530_linkedin-logo-png-linkedin-logo-transparent-png.png" alt="LinkedIn" width="50px" />
   </a>
   <a href="https://dribbble.com/imtushaarr">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/870/non_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" alt="Dribbble" width="50px" />
