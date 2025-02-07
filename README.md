@@ -25,9 +25,9 @@ I'm a passionate software developer with a knack for solving complex problems an
 
 ## 📫 How to Reach Me
 
-- **Email:** imtushaarr@example.com
+- **Email:** tusharguptagps@gmail.com
 - **LinkedIn:** [Tushaar's LinkedIn](https://www.linkedin.com/in/imtushaarr/)
-- **Twitter:** [@imtushaarr](https://twitter.com/imtushaarr)
+- **Portfolio:** [@imtushaarr][(https://twitter.com/imtushaarr](https://tushar-gupta-portfolio.vercel.app/)
 
 ## 💼 Work Experience
 
