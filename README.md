@@ -1,42 +1,65 @@
-![Social Media BackGound Banner](https://github.com/user-attachments/assets/753df1ee-84ad-4149-95ef-f66287db4284)
+# Hi there, I'm Tushaar 👋
 
-<p align="center">
-  <h2>Let's Connect and have a Chat!💬</h2>
-  <p>I'm Tushar Gupta - I'm a software Developer, designer, founder and undergraduate student at Chandigarh University. I'm always eager to learn new technologies and skills to improve   my craft. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities.
-</p>
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://tushar-gupta-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="http://linkedin.com/imtushaarr">
-    <img src="https://www.pngitem.com/pimgs/m/106-1069530_linkedin-logo-png-linkedin-logo-transparent-png.png" alt="LinkedIn" width="20px" />
-  </a>
-  <a href="https://dribbble.com/imtushaarr">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/870/non_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" alt="Dribbble" width="20px" />
-  </a>
-  <a href="http://instagram.com/imtushaarr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" width="20px" />
-  </a>
-</p>
+I'm a passionate software developer with a knack for solving complex problems and an enthusiasm for learning new technologies. Here's a little bit about me:
 
+## 🚀 Skills & Technologies
 
-+ 👨‍💻 Software Developer
-+ 🧑‍💼 Founder Of [KRAFCOOL](https://linkedin.com/company/krafcool)
-+ 🤓 Always learning and experimenting
-+ 🤝 Leadership practice
+- **Languages:** JavaScript, Python, Java, C++
+- **Web Development:** React, Node.js, Express, HTML, CSS
+- **Database Management:** MongoDB, MySQL, PostgreSQL
+- **DevOps:** Docker, Kubernetes, CI/CD with GitHub Actions
+- **Cloud Services:** AWS, Azure, Google Cloud Platform
+- **Version Control:** Git, GitHub
 
+## 🌱 Currently Learning
 
+- Advanced Cloud Computing
+- Machine Learning and AI
+- Blockchain Development
 
-## 🛠 Skills
+## 🔭 Projects
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,nodejs,react&theme=light)]()
+- **Project 1:** [Awesome Project](https://github.com/imtushaarr/awesome-project) - A web application that does amazing things.
+- **Project 2:** [Cool App](https://github.com/imtushaarr/cool-app) - A mobile app that solves a common problem.
+- **Project 3:** [DevOps Toolkit](https://github.com/imtushaarr/devops-toolkit) - A set of tools to streamline DevOps processes.
 
-## 🛠 Tools I Used
+## 📫 How to Reach Me
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,mysql,firebase,androidstudio,figma,aws,vercel,git,gitlab&theme=light)]()
+- **Email:** imtushaarr@example.com
+- **LinkedIn:** [Tushaar's LinkedIn](https://www.linkedin.com/in/imtushaarr/)
+- **Twitter:** [@imtushaarr](https://twitter.com/imtushaarr)
 
-## Talking about Personal Stuff
-+ 🛠   I’m currently working with Java, JavaScript, React, Python.
-+ 💬   Ask me about anything here! I am happy to help.
-+ 😄  Pronouns: He / Him
-+ 📫   How to reach me: tusharguptagps@gmail.com.
+## 💼 Work Experience
+
+- **Software Engineer at TechCompany** (2023 - Present)
+  - Developed and maintained web applications using React and Node.js.
+  - Implemented CI/CD pipelines using GitHub Actions.
+  - Managed cloud infrastructure on AWS.
+
+- **Junior Developer at WebStart** (2021 - 2023)
+  - Assisted in the development of e-commerce websites.
+  - Worked with MongoDB and MySQL for database management.
+  - Collaborated with the design team to create user-friendly interfaces.
+
+## 🎓 Education
+
+- **Bachelor of Science in Computer Science**
+  - University of Technology, Graduated 2021
+
+## 💡 Interests
+
+- Open Source Contributions
+- Cybersecurity
+- Data Science
+
+## 🌟 Fun Facts
+
+- I love to travel and explore new cultures.
+- I'm an avid reader and enjoy science fiction novels.
+- In my free time, I like to tinker with IoT projects.
+
+Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
+
+![Tushaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtushaarr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtushaarr&layout=compact&theme=radical)
