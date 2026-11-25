@@ -52,12 +52,16 @@ OpenAI API integrations · RAG · LangChain · LangGraph · Embeddings · Semant
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtushaarr&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtushaarr&layout=compact&hide_border=true&theme=transparent" alt="Most used public repository languages" />
+  <img src="https://raw.githubusercontent.com/imtushaarr/imtushaarr/output/profile-stats.svg" alt="Automatically updated GitHub statistics: public repositories, followers, and stars on original repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtushaarr&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imtushaarr/imtushaarr/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/imtushaarr/imtushaarr/output/github-contribution-grid-snake.svg" alt="Animated snake following my GitHub contribution activity" />
+  </picture>
 </p>
+
+*The statistics card and contribution animation are regenerated daily.*
 
 I’m always happy to connect with people building thoughtful products and useful open-source tools.
