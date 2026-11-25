@@ -18,7 +18,7 @@ I build backend systems and full-stack products, from API design and data modeli
 ## Technologies & expertise
 
 **Languages**  
-Python · TypeScript · JavaScript · SQL
+Python · TypeScript · JavaScript · SQL · C++
 
 **Backend**  
 FastAPI · Django · NestJS · Node.js · Pydantic · AsyncIO · REST APIs · Microservices · RabbitMQ
