@@ -56,6 +56,10 @@ OpenAI API integrations · RAG · LangChain · LangGraph · Embeddings · Semant
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtushaarr&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imtushaarr/imtushaarr/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/imtushaarr/imtushaarr/output/github-contribution-grid-snake.svg" alt="Animated snake following my GitHub contribution activity" />
