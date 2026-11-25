@@ -1,29 +1,48 @@
-# Hey, I'm Tushaar 👋
+# Hi, I'm Tushaar Gupta 👋
 
-I'm a software developer who enjoys turning ideas into useful web products — from polished, responsive interfaces to APIs and real-time features. I like learning by building, and I work across frontend and backend depending on what a project needs.
+**Backend & Full-Stack Developer · 4 years of experience**
 
-[Portfolio](https://imtushaarr.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imtushaarr/)
+I build backend systems and full-stack products, from API design and data modeling to responsive web and mobile interfaces. My work spans microservices, authentication and multi-tenant systems, cloud-backed applications, and AI-powered features such as retrieval-augmented generation and semantic search. I also contribute to open-source projects and enjoy collaborating on software that solves practical problems.
 
-## What I like building
+[Portfolio](https://imtushaarr.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imtushaarr/) · [GitHub](https://github.com/imtushaarr)
 
-- Full-stack web apps with thoughtful, responsive user experiences
-- Backend services and APIs, including authentication and licensing workflows
-- Real-time features such as chat and live updates
-- Small experiments with Python, automation, and computer vision
+## What I work on
 
-## Technologies I work with
+- Designing and building backend services, REST APIs, and microservice-based systems
+- Developing full-stack applications and mobile experiences
+- Implementing authentication, authorization, and tenant-aware data access
+- Integrating LLMs, retrieval pipelines, embeddings, and semantic search
+- Building observable, containerized services and supporting their delivery with CI/CD
+- Contributing to open-source software
 
-**Languages:** JavaScript, TypeScript, Python, Java, C++  
-**Frontend:** React, HTML, CSS, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, FastAPI  
-**Data & services:** Firebase, MongoDB, PostgreSQL, Redis  
-**Tools:** Git, Docker
+## Technologies & expertise
 
-## A few projects
+**Languages**  
+Python · TypeScript · JavaScript · SQL
 
-- [**License & SKU Microservice**](https://github.com/imtushaarr/licence-sku-microservice) — A FastAPI service for product plans, license lifecycles, and entitlement validation, with PostgreSQL, Redis, and Docker.
-- [**KrafChat**](https://github.com/imtushaarr/KrafChat-App) — A real-time chat app built with React, Firebase, and Zustand, with authentication and image sharing.
-- [**ProjectVerse**](https://github.com/imtushaarr/ProjectVerse) — A project marketplace, with separate [frontend](https://github.com/imtushaarr/ProjectVerse-Frontend) and [backend](https://github.com/imtushaarr/ProjectVerse-Backend) repositories.
-- [**Autern**](https://github.com/imtushaarr/Autern) — A job-board experience built with React, TypeScript, and Firebase.
+**Backend**  
+FastAPI · Django · NestJS · Node.js · Pydantic · AsyncIO · REST APIs · Microservices · RabbitMQ
 
-I’m always curious about a good problem, a new tool, or a more useful way to build something.
+**Databases & data stores**  
+PostgreSQL · Redis · pgvector · Qdrant · Supabase · NeonDB
+
+**Frontend & mobile**  
+React · Next.js · React Native · HTML · CSS
+
+**Cloud, DevOps & observability**  
+AWS (CodeCommit) · Azure Blob Storage · GCP · Docker · CI/CD · ELK Stack · Elastic APM · Git
+
+**Authentication & security**  
+JWT · OAuth 2.0 · OpenID Connect (OIDC) · SAML · SSO · Multi-tenant data isolation
+
+**AI & data**  
+OpenAI API integrations · RAG · LangChain · LangGraph · Embeddings · Semantic search · Pandas
+
+## Selected projects
+
+- [**License & SKU Microservice**](https://github.com/imtushaarr/licence-sku-microservice) — A FastAPI service for product plans, license lifecycles, and entitlement validation, using PostgreSQL, Redis, and Docker.
+- [**ProjectVerse**](https://github.com/imtushaarr/ProjectVerse) — A project marketplace with separate [frontend](https://github.com/imtushaarr/ProjectVerse-Frontend) and [backend](https://github.com/imtushaarr/ProjectVerse-Backend) repositories.
+- [**KrafChat**](https://github.com/imtushaarr/KrafChat-App) — A real-time chat app built with React, Firebase, and Zustand, including authentication and image sharing.
+- [**Autern**](https://github.com/imtushaarr/Autern) — A job-board application built with React, TypeScript, and Firebase.
+
+I’m always happy to connect with people building thoughtful products and useful open-source tools.
